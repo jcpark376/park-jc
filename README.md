@@ -1,5 +1,5 @@
 2020-June-26
 
-Personal website for [park-jc.com](park-jc.com)
+Personal website for [park-jc.com](www.park-jc.com)
 
 Currently mostly based on a template from Colt Steele's Udemy tutorial "The Web Developer Bootcamp"
